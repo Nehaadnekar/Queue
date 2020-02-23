@@ -1,2 +1,2 @@
 # Queue
-queue implementation using array 
+queue implementation using arrays 
